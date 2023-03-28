@@ -12,3 +12,15 @@ tags:
 S﻿hort history of my programming journey up to now.
 
 ## A﻿bout the Course
+
+## I﻿ntroduction to Programming
+
+### P﻿urpose
+
+#﻿## Advantages of Knowing How To Program
+
+#﻿# Introduction to Programming Languages
+
+#﻿## Interpreted
+
+#﻿## Compiled
