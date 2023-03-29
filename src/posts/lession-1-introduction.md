@@ -13,7 +13,7 @@ S﻿hort history of my programming journey up to now. This will tell how I start
 
 ## A﻿bout the Course
 
-T﻿his course will be about teaching students the basic concepts about computer programming using Python.
+T﻿his course will be about teaching students the basic concepts about computer programming using Python. I chose Python so that the students can grasp the concept of coding by getting the results easily and fast.
 
 ## I﻿ntroduction to Programming
 
