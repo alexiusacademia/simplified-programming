@@ -9,7 +9,7 @@ tags:
 ---
 ## A﻿bout the Author
 
-S﻿hort history of my programming journey up to now.
+S﻿hort history of my programming journey up to now. This will tell how I started my journey in computer and programming them.
 
 ## A﻿bout the Course
 
@@ -17,10 +17,10 @@ S﻿hort history of my programming journey up to now.
 
 ### P﻿urpose
 
-#﻿## Advantages of Knowing How To Program
+\#﻿## Advantages of Knowing How To Program
 
-#﻿# Introduction to Programming Languages
+\#﻿# Introduction to Programming Languages
 
-#﻿## Interpreted
+\#﻿## Interpreted
 
-#﻿## Compiled
+\#﻿## Compiled
