@@ -9,7 +9,7 @@ tags:
 ---
 ## A﻿bout the Author
 
-S﻿hort history of my programming journey up to now. This will tell how I started my journey in computer and programming them.
+S﻿hort history of my programming journey up to now. This will tell how I started my journey in computer and programming.
 
 ## A﻿bout the Course
 
