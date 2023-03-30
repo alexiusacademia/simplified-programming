@@ -1,6 +1,6 @@
 ---
 title: "Lession 1: Introduction"
-description: "Lesson 1: Introduction to the course."
+description: "Lesson 1: Introduction to the course and to programming with Python."
 author: alex
 date: 2023-03-28T04:03:27.397Z
 tags:
